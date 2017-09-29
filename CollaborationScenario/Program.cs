@@ -11,6 +11,7 @@ namespace CollaborationScenario
         static void Main(string[] args)
         {
             //Who's going to read that??
+            //Still noones there?
         }
     }
 }
